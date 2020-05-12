@@ -4,6 +4,6 @@ orbs:
   maven: circleci/maven@0.0.12
 
 workflows:
-  maven_test:
+  build:
     jobs:
-      - maven/test # checkout, build, test, and upload test results
+      - mvn -B package --file pom.xml -e
