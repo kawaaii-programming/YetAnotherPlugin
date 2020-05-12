@@ -113,4 +113,12 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub kawaaii-programming Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/kawaaii-programming/YetAnotherPlugin</url>
+        </repository>
+    </distributionManagement>
+
 </project>
