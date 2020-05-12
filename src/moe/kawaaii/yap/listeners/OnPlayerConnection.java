@@ -73,4 +73,6 @@ public class OnPlayerConnection implements Listener {
       channel.sendMessage(message);
     });
   }
+
+  // Laat wilco nooit met een idee komen! =D
 }
