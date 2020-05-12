@@ -1,0 +1,196 @@
+story/mine_stone:
+  name: "Stone Age"
+  message: "**{username}** mined their first stone and made the advancement [**{advancement}**]"
+story/upgrade_tools:
+  name: "Getting an Upgrade"
+  message: "**{username}** just crafted a better pickaxe and made the advancement [**{advancement}**]"
+story/smelt_iron:
+  name: "Acquire Hardware"
+  message: "**{username}** molt their first Iron Ingot and made the advancement [**{advancement}**]"
+story/obtain_armor:
+  name: "Suit Up"
+  message: "**{username}** just got their first armour piece obtained and made the advancement [**{advancement}**]"
+story/lava_bucket:
+  name: "Hot Stuff"
+  message: "**{username}** just filled a bucket with lava and made the advancement [**{advancement}**]"
+story/iron_tools:
+  name: "Isn't It Iron Pick"
+  message: "**{username}** just obtained their first Iron Pickaxe and made the advancement [**{advancement}**]"
+story/deflect_arrow:
+  name: "Not Today, Thank You"
+  message: "**{username}** deflected a projectile with their shield and made the advancement [**{advancement}**]"
+story/form_obsidian:
+  name: "Ice Bucket Challenge"
+  message: "**{username}** just obtained their first obsidian and made the advancement [**{advancement}**]"
+story/mine_diamond:
+  name: "Diamonds!"
+  message: "**{username}** just obtained their first diamond and made the advancement [**{advancement}**]"
+story/enter_the_nether:
+  name: "We Need to Go Deeper"
+  message: "**{username}** has entered the Nether for the first time and made the advancement [**{advancement}**]"
+story/shiny_gear:
+  name: "Cover Me With Diamonds"
+  message: "**{username}** obtained their first Diamond armour piece and made the advancement [**{advancement}**]"
+story/enchant_item:
+  name: "Enchanter"
+  message: "**{username}** enchanted their first item and made the advancement [**{advancement}**]"
+story/cure_zombie_villager:
+  name: "Zombie Doctor"
+  message: "**{username}** weaken and cured their first Zombie Villager and made the advancement [**{advancement}**]"
+story/follow_ender_eye:
+  name: "Eye Spy"
+  message: "**{username}** just found their first Stronghold and made the advancement [**{advancement}**]"
+story/enter_the_end:
+  name: "The End?"
+  message: "**{username}** has entered the End for the first time and made the advancement [**{advancement}**]"
+
+nether/all_effects:
+  name: "How Did We Get Here?"
+  message: "**{username}** had every effect applied to them at the same time and made the advancement [**{advancement}**]"
+nether/create_full_beacon:
+  name: "Beaconator"
+  message: "**{username}** brought a beacon to full power and made the advancement [**{advancement}**]"
+nether/all_potions:
+  name: "A Furious Cocktail"
+  message: "**{username}** had every potion effect apply to them at the same time and made the advancement [**{advancement}**]"
+nether/create_beacon:
+  name: "Bring Home The Beacon"
+  message: "**{username}** made their first beacon and made the advancement [**{advancement}**]"
+nether/brew_potion:
+  name: "Local Brewery"
+  message: "**{username}** brewed their first potion the advancement [**{advancement}**]"
+nether/summon_wither:
+  name: "Withering Heights"
+  message: "**{username}** summoned the wither and made the advancement [**{advancement}**]"
+nether/obtain_blaze_rod:
+  name: "Into Fire"
+  message: "**{username}** obtained their first blaze rod and made the advancement [**{advancement}**]"
+nether/get_wither_skull:
+  name: "Spooky Scary Skeleton"
+  message: "**{username}** obtained their first wither skull and made the advancement [**{advancement}**]"
+nether/uneasy_alliance:
+  name: "Uneasy Alliance"
+  message: "**{username}** killed a ghast while in the overworld and made the advancement [**{advancement}**]"
+nether/find_fortress:
+  name: "A Terrible Fortress"
+  message: "**{username}** found their first nether fortress and made the advancement [**{advancement}**]"
+nether/fast_travel:
+  name: "Subspace Bubble"
+  message: "**{username}** used the nether to travel more then 7km and made the advancement [**{advancement}**]"
+nether/return_to_sender:
+  name: "Return To Sender"
+  message: "**{username}** killed a ghast with it's down projectile and made the advancement [**{advancement}**]"
+
+end/kill_dragon:
+  name: "Free the End"
+  message: "**{username}** just defeated the Ender Dragon for the first time and made the advancement [**{advancement}**]"
+end/dragon_egg:
+  name: "The Next Generation"
+  message: "**{username}** obtained their first Dragon Egg and made the advancement [**{advancement}**]"
+end/enter_end_gateway:
+  name: "Remote Gateway"
+  message: "**{username}** used a End Gateway for the first time and made the advancement [**{advancement}**]"
+end/respawn_dragon:
+  name: "The End... Again..."
+  message: "**{username}** summoned the Ender Dragen once again and made the advancement [**{advancement}**]"
+end/dragon_breath:
+  name: "You Need a Mint"
+  message: "**{username}** obtained their first Dragon Breath and made the advancement [**{advancement}**]"
+end/find_end_city:
+  name: "The City at the End of the Game"
+  message: "**{username}** entered their first End City and made the advancement [**{advancement}**]"
+end/elytra:
+  name: "Great View From Up Here"
+  message: "**{username}** moved vertical 50 blocks with levitation for the first time and made the advancement [**{advancement}**]"
+
+adventure/voluntary:
+  name: "Voluntary Exile"
+  message: "**{username}** has killed a raid captain and made the advancement [**{advancement}**]"
+adventure/kill_a_mob:
+  name: "Monster Hunter"
+  message: "**{username}** killed a monster for the first time and made the advancement [**{advancement}**]"
+adventure/trade:
+  name: "What a Deal!"
+  message: "**{username}** traded with a villager for the first time and made the advancement [**{advancement}**]"
+adventure/honey_block_slide:
+  name: "Sticky Situation"
+  message: "**{username}** broke their fall with a honey block and made the advancement [**{advancement}**]"
+adventure/ol_betsy:
+  name: "Ol' Betsy"
+  message: "**{username}** shot a crossbow for the first time and made the advancement [**{advancement}**]"
+adventure/sleep_in_bed:
+  name: "Sweet Dreams"
+  message: "**{username}** has slept in a bed for the first time and made the advancement [**{advancement}**]"
+adventure/hero_of_the_village:
+  name: "Hero of the Village"
+  message: "**{username}** defended a village from a raid for the first time and made the advancement [**{advancement}**]"
+adventure/throw_trident:
+  name: "A Throwaway Joke"
+  message: "**{username}** has thrown their trident and made the advancement [**{advancement}**]"
+adventure/shoot_arrow:
+  name: "Take Aim"
+  message: "**{username}** shot something with an arrow for the first time and made the advancement [**{advancement}**]"
+adventure/kill_all_mobs:
+  name: "Monsters Hunted"
+  message: "**{username}** has killed one of every mob and made the advancement [**{advancement}**]"
+adventure/totem_of_undying:
+  name: "Postmortal"
+  message: "**{username}** has used a totem of the undying, cheated death and made the advancement [**{advancement}**]"
+adventure/summon_iron_golem:
+  name: "Hired Help"
+  message: "**{username}** has summoned an Iron Golem for the first time and made the advancement [**{advancement}**]"
+adventure/two_birds_one_arrow:
+  name: "Two Birds, One Arrow"
+  message: "**{username}** has killed two phantoms with one arrow and made the advancement [**{advancement}**]"
+adventure/whos_the_pillager_now:
+  name: "Who's the Pillager Now?"
+  message: "**{username}** killed a pillager with a crossbow and made the advancement [**{advancement}**]"
+adventure/arbalistic:
+  name: "Arbalistic"
+  message: "**{username}** killed five different monsters with one shot and made the advancement [**{advancement}**]"
+adventure/adventuring_time:
+  name: "Adventuring Time"
+  message: "**{username}** has discovered every biome and made the advancement [**{advancement}**]"
+adventure/very_very_frightening:
+  name: "Very Very Frightening"
+  message: "**{username}** struck a villager with lightning and made the advancement [**{advancement}**]"
+adventure/sniper_duel:
+  name: "Sniper Duel"
+  message: "**{username}** killed a skeleton from 50 meters away and made the advancement [**{advancement}**]"
+adventure/bullseye:
+  name: "Bullseye"
+  message: "**{username}** shot the center of a target block and made the advancement [**{advancement}**]"
+
+husbandry/safely_harvest_honey:
+  name: "Bee our Guest"
+  message: "**{username}** safely harvested honey for the first time and made the advancement [**{advancement}**]"
+husbandry/breed_an_animal:
+  name: "The Parrots and the Bats"
+  message: "**{username}** bred animals for the first time and made the advancement [**{advancement}**]"
+husbandry/tame_an_animal:
+  name: "Best Friends Forever"
+  message: "**{username}** tamed an animal for the first time and made the advancement [**{advancement}**]"
+husbandry/fishy_business:
+  name: "Fishy Business"
+  message: "**{username}** caught a fish for the first time and made the advancement [**{advancement}**]"
+husbandry/silk_touch_nest:
+  name: "Total Beelocation"
+  message: "**{username}** moved an active bee nest with silk touch and made the advancement [**{advancement}**]"
+husbandry/plant_seed:
+  name: "A Seedy Place"
+  message: "**{username}** planted a seed, watched it grow and made the advancement [**{advancement}**]"
+husbandry/bred_all_animals:
+  name: "Two by Two"
+  message: "**{username}** bred one of each animal and made the advancement [**{advancement}**]"
+husbandry/complete_catalogue:
+  name: "A Complete Catalogue"
+  message: "**{username}** tamed all cat variants and made the advancement [**{advancement}**]"
+husbandry/tactical_fishing:
+  name: "Tactical Fishing"
+  message: "**{username}** caught a fish without a fishing rod and made the advancement [**{advancement}**]"
+husbandry/balanced_diet:
+  name: "A Balanced Diet"
+  message: "**{username}** has eaten every edible thing at least once and made the advancement [**{advancement}**]"
+husbandry/break_diamond_hoe:
+  name: "Serious Dedication"
+  message: "**{username}** completely used up a diamond hoe and made the advancement [**{advancement}**]"

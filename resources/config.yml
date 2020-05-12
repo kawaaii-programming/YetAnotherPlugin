@@ -1,0 +1,27 @@
+config:
+
+  discord:
+    token: ''
+    prefixes:
+      - '!'
+
+  modules:
+    advancements:
+      enabled: false
+      channels:
+        - ''
+
+    connections:
+      enabled: false
+
+      connect:
+        enabled: false
+        format: '\🟢 | **{username}** entered the server, have fun!'
+        channels:
+          - ''
+
+      disconnect:
+        enabled: false
+        format: '\🔴 | **{username}** left the server, come again!'
+        channels:
+          - ''

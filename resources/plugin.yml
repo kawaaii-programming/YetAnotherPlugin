@@ -1,0 +1,16 @@
+main: moe.kawaaii.yap.yap
+name: YetAnotherPlugin
+description: An multi-functional Minecraft plugin
+version: 0.0.2
+api-version: 1.15
+author: Kawaaii Programming
+website: https://yap.kawaaii.moe/
+depend:
+  - Essentials
+  - PlaceholderAPI
+  - mcMMO
+permissions:
+  yap.reload:
+    description: This permission allows you to reload the YAP plugin! (not recommended)
+  yap.chat:
+    description: This permission allows you to sent message to Discord via the Cross-chat module!
