@@ -120,5 +120,4 @@
             <url>https://maven.pkg.github.com/kawaaii-programming/YetAnotherPlugin</url>
         </repository>
     </distributionManagement>
-
 </project>
